@@ -12,4 +12,4 @@ The reason for doing a pairwise win probability rather than single board strengt
 See summary slides [here](https://docs.google.com/presentation/d/1fYU9uPyvYCgMk84W6g4uxOgDL0LwqRZg7LAz2cafx7k/edit#slide=id.p). 
 
 # Data
-See raw jsons for game [here]([https://raw.communitydragon.org/](https://raw.communitydragon.org/latest/cdragon/tft/en_us.json)https://raw.communitydragon.org/latest/cdragon/tft/en_us.json)
+See raw jsons for game [here](https://raw.communitydragon.org/](https://raw.communitydragon.org/latest/cdragon/tft/en_us.json)https://raw.communitydragon.org/latest/cdragon/tft/en_us.json)
